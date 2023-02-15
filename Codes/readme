@@ -1,0 +1,16 @@
+ADS-B_Lib.jpynb: pyModeS kütüphanesi
+Book.jpynb: the-1090mhz-riddle kitap linki
+Dataset.jpynb: Veri kümelerinin incelenmesi
+Datetime.jpynb: Unix timestamp'ten gerçek tarih ve saat bilgisine dönüşüm
+lon_lat.jpynb: Enlem ve boylama göre filtreleme
+OpenSky.jpynb:Kullanıcı adı-Şifreyi kabul etmiyor
+OpenSkyApi.jpynb: OpenSky'dan canlı veri çekme, kütüphanesi bulunmuyor
+Traffic.jpynb: Traffic kütüphanesi yüklenemiyor
+turkey_flight.jpynb:Türkiye'nin üstünden geçen uçuşların veri kümesi (1 günlük)
+Unique Values.jpynb: Bir sütundaki benzersiz değerlerin dizisi
+
+
+
+
+
+

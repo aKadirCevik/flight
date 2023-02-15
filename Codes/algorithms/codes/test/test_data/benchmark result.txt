@@ -1,0 +1,12 @@
+Train (10200, 31) (10200,) Test (10200, 31) (10200,)
+Meta  (10200, 459) (10200,)
+LogisticRegression: 69.284
+DecisionTreeClassifier: 68.010
+SVC: 2.196
+GaussianNB: 65.059
+KNeighborsClassifier: 26.735
+AdaBoostClassifier: 7.971
+BaggingClassifier: 82.637
+RandomForestClassifier: 84.686
+ExtraTreesClassifier: 82.176
+Super Learner: 89.735
